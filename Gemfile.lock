@@ -1,0 +1,19 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    mini_portile (0.6.2)
+    nokogiri (1.6.6.2-x86-mingw32)
+      mini_portile (~> 0.6.0)
+    qtbindings (4.8.6.2-x86-mingw32)
+      qtbindings-qt (= 4.8.6)
+    qtbindings-qt (4.8.6-x86-mingw32)
+    win32-shortcut (0.2.4)
+
+PLATFORMS
+  x86-mingw32
+
+DEPENDENCIES
+  bundler
+  nokogiri
+  qtbindings
+  win32-shortcut
