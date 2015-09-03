@@ -16,7 +16,7 @@
 
 # 動作環境
 
-- ruby 2.0.0 [i386-mingw32] (http://rubyinstaller.org/)
+- ruby 2.0.0 [i386-mingw32] http://rubyinstaller.org/
 - bundler
 - 使用メモリはタスクマネージャ読みで50MBほど
 
